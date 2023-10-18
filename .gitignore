@@ -1,0 +1,5 @@
+# ignore database file
+db.sqlite3
+
+# Ignore Python bytecode files
+TaskManagerPro/__pycache__/
