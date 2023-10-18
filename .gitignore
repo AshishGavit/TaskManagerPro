@@ -3,3 +3,5 @@ db.sqlite3
 
 # Ignore Python bytecode files
 TaskManagerPro/__pycache__/
+task_manager/__pycache__/
+task_manager/migrations/__pycache__/
